@@ -1,0 +1,14 @@
+html,
+body,
+.container {
+    min-height: 100vh;
+    min-width: 100vw;
+}
+
+@font-face {
+  font-family: 'KeniaOne';
+  src: url('/fonts/KeaniaOne-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
